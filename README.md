@@ -56,7 +56,7 @@ Inside the script, change the list of files to merge:
 
 3.Run the script:
 
-    python pdf_merger.py
+    python main.py
 
 4.The merged PDF will be saved as merged.pdf.
 
