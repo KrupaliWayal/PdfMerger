@@ -81,16 +81,3 @@ If you have 1.pdf (2 pages) and 2.pdf (3 pages):
 Krupali – PDF Merger Project Developer
 
 ---
-## 📚 PDF Merger using PyPDF2
-
-This project merges multiple PDF files into a single PDF using the PyPDF2 library in Python.
-
----
-
-## 🚀 Features
-
-- Merge multiple PDF files into one
-- Easy to configure (just list the files in the script)
-- Lightweight and beginner-friendly
-
----
